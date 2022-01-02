@@ -81,20 +81,9 @@ I'm just an ordinary person and a software engineer who likes to develop useful 
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## GitHub Stats
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Nyxordinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxordinal)](https://github.com/nyxordinal)
-
-</details>
+[![Nyxordinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxordinal)](https://github.com/nyxordinal)
 
 [website]: https://nyxordinal.tech
 [twitter]: https://twitter.com/nyxordinal
