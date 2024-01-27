@@ -1,6 +1,6 @@
 ### Hi, I'm Nyxordinal
 
-[![Website](https://img.shields.io/website?label=nyxordinal.tech&style=for-the-badge&url=https%3A%2F%2Fnyxordinal.tech)](https://nyxordinal.tech)
+[![Website](https://img.shields.io/website?label=nyxordinal.dev&style=for-the-badge&url=https%3A%2F%2Fnyxordinal.dev)](https://nyxordinal.dev)
 
 ## I'm just an ordinary person
 
@@ -8,7 +8,7 @@ I'm just an ordinary person and a software engineer who likes to develop useful 
 
 ### Connect with me:
 
-[<img align="left" alt="nyxordinal.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nyxordinal.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Nyxordinal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -85,5 +85,5 @@ I'm just an ordinary person and a software engineer who likes to develop useful 
 
 [![Nyxordinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyxordinal)](https://github.com/nyxordinal)
 
-[website]: https://nyxordinal.tech
+[website]: https://nyxordinal.dev
 [twitter]: https://twitter.com/nyxordinal
